@@ -3,11 +3,10 @@
 - 🎨 I'm interested in Web-Design
 - 🌱 I’m currently learning Fullstack Development, Web-Design, Graphical Illustrations
 - ⚡ Hobby: I love to play guitar
-- 📫 How to reach me 
--  
-  [Linkedin](https://www.linkedin.com/in/nazar-hasanov/)
-  [Instagram](https://www.instagram.com/hasanovnazar/)
-  [Facebook](https://www.facebook.com/hasanovnazar)
+- 📫 Contact me: 
+  - [Linkedin](https://www.linkedin.com/in/nazar-hasanov/)
+  - [Instagram](https://www.instagram.com/hasanovnazar/)
+  - [Facebook](https://www.facebook.com/hasanovnazar)
 
 <!---
 geekNH/geekNH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
