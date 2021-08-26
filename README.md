@@ -2,7 +2,7 @@
 - 💻 I’m currently working on Backend Development for CMS
 - 🎨 I'm interested in Web-Design
 - 🌱 I’m currently learning Fullstack Development, Web-Design, Graphical Illustrations
-- ⚡ Hobby: I love to play guitar
+- ⚡ Hobby: Love to play guitar
 - 📫 Contact me: 
   - [Linkedin](https://www.linkedin.com/in/nazar-hasanov/)
   - [Instagram](https://www.instagram.com/hasanovnazar/)
