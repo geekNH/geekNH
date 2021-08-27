@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nazar
 - 💻 I’m currently working on Backend Development for CMS
-- 🎨 I'm interested in Web-Design
-- 🌱 I’m currently learning Fullstack Development, Web-Design, Graphical Illustrations
+- 🎨 I'm interested in Software Development, Graphic Design
+- 🌱 I’m currently learning Fullstack Development, Graphic/Web-Design, Graphical Illustrations
 - ⚡ Hobby: Love to play guitar
 - 📫 Contact me: 
   - [Linkedin](https://www.linkedin.com/in/nazar-hasanov/)
