@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nazar
-- 💻 I’m currently working on Backend Development for CMS
-- 🎨 I'm interested in Software Development, Graphic Design
+- 💻 I’m currently working on Backend Development and scripting in Python.
+- 🎨 I'm interested in Software Development, Graphic Design, Arts and tech.
 - 🌱 I’m currently learning Fullstack Development, Graphic/Web-Design, Graphical Illustrations
 - ⚡ Hobby: Love to play guitar
 - 📫 Contact me: 
